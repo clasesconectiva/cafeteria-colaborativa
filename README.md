@@ -10,7 +10,7 @@ Este proyecto es una aplicación de consola en Java diseñada para gestionar ped
 
 Consulte la arquitectura del sistema para la implementación de los módulos:
 
-![Diagrama de Clases UML](docs/diagrama_clases.png)
+![Diagrama de Clases UML](docs/Diagrama de clases cafeteria.png)
 
 ---
 
