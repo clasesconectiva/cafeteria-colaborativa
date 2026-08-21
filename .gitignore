@@ -1,1 +1,13 @@
+# Archivos compilados de Java
+*.class
+bin/
 
+# Configuración de VS Code y editores
+.vscode/
+.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
